@@ -1,4 +1,4 @@
 # VerticalSeekbar
 Custom seekbar with Numbers
-![image](001)
-![image](002)
+![image](git@github.com:Lipeng000/VerticalSeekbar.git/VerticalSeekbar/001)
+![image](git@github.com:Lipeng000/VerticalSeekbar.git/VerticalSeekbar/002)
